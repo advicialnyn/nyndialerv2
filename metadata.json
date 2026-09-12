@@ -1,0 +1,6 @@
+{
+  "name": "nyndialer",
+  "description": "Clean minimal dialer featuring smart contact search, SIP/VoIP calling, call recording saved to internal storage, customizable speed dial, and Google contacts sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
